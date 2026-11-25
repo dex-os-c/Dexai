@@ -13,9 +13,7 @@ def count_word(data):
     count = {}
     for i in data:
         count[i] = count.get(i, 0) + 1
-    print(count)
 
-count_word(data)
  # end ....
 
 data = Readfile() # main data variable
@@ -69,8 +67,11 @@ def next_word_prob(pair, word):
 
 # Using the random library predicting the next word
 def predict_next(probalities):
-    choices = list(probalities.keys()) 
-    words = list(probalities.values())
+    words = list(probalities.keys()) 
+    str_choices = list(probalities.values())
+    print(str_choices)
+    choices = [int(x) for x in str_choices]
+    print(choices)
     #passing the word and key as an parameter 
     result = rnd.choices(words, weights = choices)
     return result[0]
