@@ -1,8 +1,87 @@
-hello there
-hello nigga
-hello mfs
-hello btw
-hey niggas
-nigger 
-hello 
-hello there
+hello there how are you doing today
+hello my friend welcome to the project
+hello world this is a simple language model
+hello everyone let us build something great today
+hi there i hope your day is going well
+hi friend what are you working on right now
+hey bro how is the code coming along today
+hey there let us test how this model generates text
+how are you feeling about your progress today
+how does a simple language model predict the next word
+how can we make our data cleaner and more useful
+what are we going to build next with python
+what makes a good program easy to read and maintain
+what happens when you train a model on clean text
+why do developers write small functions that do one job
+why is clean training data important for every model
+when you write code by hand you understand every step
+when a program runs without errors it feels amazing
+where should we start when learning how computers work
+who can build software anyone who keeps practicing every day
+i am learning how to build a text generator from scratch
+i like writing python code because it is clear and readable
+i want to improve this project step by step over time
+i think clean data makes the output sound much better
+i built this model manually to see how probabilities work
+we can count every word pair in the training text
+we use word frequency to estimate what comes next
+we learn faster when we test our ideas on real examples
+we are creating synthetic sentences for better text flow
+you can type a starting word and watch the sentence grow
+you should always keep your code simple and easy to debug
+you learn a lot by fixing bugs and reading error messages
+they say great software starts with a small working prototype
+they worked together to clean the dataset and push the update
+the model reads the text file and splits it into words
+the next word depends on the probability of each pair
+the best way to learn programming is to write code every day
+the future of technology belongs to curious builders
+the sun rises over the quiet city every single morning
+the ocean waves move gently under the bright blue sky
+the stars shine clearly far above the dark mountain ridge
+the wind carries cool air across the open green valley
+a good dataset has varied sentences and natural word transitions
+a small script can still teach deep ideas about probability
+a curious mind always asks how things work under the hood
+a calm workspace helps you focus on hard engineering problems
+python makes working with dictionaries and lists very smooth
+python scripts can process text files in just a few lines
+code quality grows when you test edge cases and refine logic
+code written with care is easier for other people to trust
+data is the foundation of every machine learning system
+data without structure leads to noisy and broken predictions
+clean data helps the generator produce natural sounding phrases
+good habits in coding include clear names and honest testing
+good morning everyone let us start the day with fresh focus
+good luck with your next feature and keep pushing forward
+bro this synthetic dataset gives the generator real vocabulary
+bro keep building things from scratch because that builds real skill
+ai models learn patterns from examples written in their training data
+ai systems range from tiny bigram chains to massive neural networks
+language models predict probable continuations based on prior context
+probability tells us how likely one event is compared to another
+counting pairs turns raw text into a simple transition table
+random choices weighted by frequency create varied output sentences
+learning takes patience steady effort and plenty of experiments
+practice turns confusing concepts into second nature over time
+building projects teaches more than just watching tutorials all day
+reading code carefully helps you spot subtle bugs early on
+testing your program with different inputs reveals hidden edge cases
+keeping backups and using git history protects your hard work
+commit small changes often so every step stays easy to track
+music helps many programmers stay focused during long coding sessions
+coffee and quiet mornings make a great pair for deep thinking
+books open doors to ideas from people across history
+science explores how nature behaves from tiny atoms to huge galaxies
+space telescopes capture light that traveled for billions of years
+planets orbit their stars in steady paths shaped by gravity
+trees clean the air and shelter wildlife in every forest
+rivers carry fresh water from high mountains down to the sea
+rain falls softly on warm streets during late summer evenings
+friends encourage each other when projects get tough and frustrating
+patience and curiosity are stronger than any shortcut in engineering
+every big project begins with one working file and a clear goal
+never stop experimenting even when the first version is rough
+start simple make it work then make it clean and reliable
+today is a good day to write clean code and learn something new
+hello again from the clean synthetic dataset hello
