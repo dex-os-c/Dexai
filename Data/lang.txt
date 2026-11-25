@@ -1,37 +1,63 @@
 hello there how are you doing today
 hello my friend welcome to the project
 hello world this is a simple language model
-hello everyone let us build something great today
 hi there i hope your day is going well
+hello everyone let us build something great today
 hi friend what are you working on right now
+hi bro how is everything going with your code
 hey bro how is the code coming along today
 hey there let us test how this model generates text
+hey friend i am glad you stopped by to chat
 how are you feeling about your progress today
 how does a simple language model predict the next word
 how can we make our data cleaner and more useful
+how do we turn raw text into useful training data
+how long does it take to build a project from scratch
 what are we going to build next with python
 what makes a good program easy to read and maintain
 what happens when you train a model on clean text
+what kind of output do you get from a bigram chain
+what did you learn from testing your code today
 why do developers write small functions that do one job
 why is clean training data important for every model
+why do we test every function with different inputs
+why does practice matter more than memorizing syntax
 when you write code by hand you understand every step
 when a program runs without errors it feels amazing
+when the dataset grows larger the predictions become much richer
+when two words appear together often their weight goes up
 where should we start when learning how computers work
+where can we find good examples of clean python code
 who can build software anyone who keeps practicing every day
+who else is working on a text generator right now
 i am learning how to build a text generator from scratch
 i like writing python code because it is clear and readable
 i want to improve this project step by step over time
 i think clean data makes the output sound much better
 i built this model manually to see how probabilities work
+i enjoy solving bugs because every bug teaches something new
+i need more training sentences so the model has better choices
+i hope the generated text flows naturally from word to word
+i started with a tiny file and now the project is growing
+i check the output after every change to see what improved
 we can count every word pair in the training text
 we use word frequency to estimate what comes next
 we learn faster when we test our ideas on real examples
 we are creating synthetic sentences for better text flow
+we can add more lines to give every word more paths
+we should keep our functions focused and easy to understand
+we write programs to automate boring tasks and explore new ideas
+we need clean text without noise so predictions stay accurate
 you can type a starting word and watch the sentence grow
 you should always keep your code simple and easy to debug
 you learn a lot by fixing bugs and reading error messages
+you can test different prompts to see how the weights behave
+you never waste time when you practice building real projects
+you get better at programming every time you solve a tough problem
 they say great software starts with a small working prototype
 they worked together to clean the dataset and push the update
+they tested the new model with many prompts and checked the results
+they found the issue quickly because the code was well organized
 the model reads the text file and splits it into words
 the next word depends on the probability of each pair
 the best way to learn programming is to write code every day
@@ -40,24 +66,49 @@ the sun rises over the quiet city every single morning
 the ocean waves move gently under the bright blue sky
 the stars shine clearly far above the dark mountain ridge
 the wind carries cool air across the open green valley
+the rain makes the air feel fresh after a warm afternoon
+the code runs smoothly when every function handles edge cases
+the project started small and grew into something genuinely useful
+the terminal shows the generated words right after your prompt
+the dataset contains everyday sentences and programming topics
+the dictionary maps each word pair to how often it appears
+the random choice function picks the next word using those weights
 a good dataset has varied sentences and natural word transitions
 a small script can still teach deep ideas about probability
 a curious mind always asks how things work under the hood
 a calm workspace helps you focus on hard engineering problems
+a strong foundation in basics makes advanced topics easier to learn
+a clear error message is much better than a silent failure
+a simple loop can process thousands of words in a second
+a bigram model looks at one previous word to guess the next word
+a larger corpus gives the text generator more variety and flow
 python makes working with dictionaries and lists very smooth
 python scripts can process text files in just a few lines
+python is great for quick experiments and learning core concepts
+python code reads almost like plain english when written cleanly
+python lets you test small ideas rapidly in the terminal
 code quality grows when you test edge cases and refine logic
 code written with care is easier for other people to trust
+code should be clear enough that your future self understands it
+code becomes cleaner every time you remove unused lines
 data is the foundation of every machine learning system
 data without structure leads to noisy and broken predictions
+data quality shapes everything a language model produces
 clean data helps the generator produce natural sounding phrases
+clean input leads to cleaner output in every software pipeline
 good habits in coding include clear names and honest testing
 good morning everyone let us start the day with fresh focus
 good luck with your next feature and keep pushing forward
+good afternoon friend how is the project going so far
+good evening everyone let us review what we built today
+good software takes patience careful thought and steady iteration
 bro this synthetic dataset gives the generator real vocabulary
 bro keep building things from scratch because that builds real skill
+bro the best way to understand ai is to code a tiny version yourself
+bro test the generator with words like hello python data or the
 ai models learn patterns from examples written in their training data
 ai systems range from tiny bigram chains to massive neural networks
+ai tools are helpful but knowing how things work underneath is power
 language models predict probable continuations based on prior context
 probability tells us how likely one event is compared to another
 counting pairs turns raw text into a simple transition table
@@ -84,4 +135,147 @@ every big project begins with one working file and a clear goal
 never stop experimenting even when the first version is rough
 start simple make it work then make it clean and reliable
 today is a good day to write clean code and learn something new
-hello again from the clean synthetic dataset hello
+today we added more sentences so the generator has richer options
+tomorrow we can test longer prompts and refine the transition logic
+morning sunlight fills the room while the laptop boots up quietly
+evening walks help clear your mind after hours of debugging code
+weekend projects are a fun way to explore new programming ideas
+time passes quickly when you are deep in focus building something cool
+focus on one small problem at a time until everything fits together
+step by step the script turns plain text into working predictions
+word by word the output forms a new sentence from learned pairs
+pair by pair the dictionary learns which words belong together
+line by line the training file teaches the model how people speak
+sometimes the generated sentence makes total sense and sounds natural
+sometimes the random weights create funny and unexpected combinations
+that is the charm of a simple markov chain built from scratch
+this is only the beginning of what you can build with python
+this project shows how probability and dictionaries work together
+this approach needs zero external libraries and runs almost anywhere
+every word in this file connects smoothly to other common words
+each line adds new transitions without breaking the simple format
+more examples of common phrases help the model choose natural words
+more variety in sentence starters lets you try many different prompts
+many developers start their journey by building small terminal tools
+some people prefer working late at night when everything is quiet
+other people do their best thinking early in the morning with tea
+everyone makes mistakes while learning to code and that is normal
+nobody writes perfect code on the very first try
+anyone can improve by reading tracebacks and fixing one bug at a time
+fixing a tricky bug gives you confidence for the next challenge
+running your script often catches typos before they pile up
+small wins every day add up to huge progress over a few months
+keep your files organized so data and source code stay separate
+keep testing new ideas and never be afraid to refactor messy code
+let us check how the model responds when we type hello world
+let us see what happens when we start with the word python
+let us try another prompt and watch how many words it generates
+let us keep improving the dataset until the flow feels smooth
+thanks for checking out this project and testing the generator
+welcome back to the terminal let us run another experiment today
+see you next time when we add even more features to the project
+have a great day and keep writing clean python code
+all good things take time effort and steady curiosity
+nothing beats watching your own code finally work as intended
+everything works better when the data and logic stay clean
+yes you can build amazing tools using only standard python
+no problem is too hard when you break it into smaller pieces
+maybe next we can track three word patterns instead of two
+soon this little generator will handle longer conversations with ease
+always check what your code actually receives before guessing why it broke
+never trust unverified assumptions when debugging a stubborn error
+here is another clean sentence to expand the training vocabulary
+there are many paths from one word to the next in a big dataset
+there is always something interesting to discover when you experiment
+hello again my friend let us see what the model says
+earth is the third planet from the sun in our solar system
+earth takes about three hundred sixty five days to orbit the sun
+earth spins once on its axis every twenty four hours
+the moon orbits around earth and controls ocean tides with gravity
+the sun is a giant star made mostly of hydrogen and helium
+mercury is the smallest planet and the closest one to the sun
+venus is the hottest planet in our solar system because of thick clouds
+mars is often called the red planet because of iron oxide dust
+jupiter is the largest planet in the solar system with a giant storm
+saturn is famous for its bright rings made of ice and rock
+uranus and neptune are cold blue ice giant planets far from the sun
+our solar system is located inside the milky way galaxy
+light from the sun takes about eight minutes to reach earth
+a solar eclipse happens when the moon moves directly between earth and the sun
+a lunar eclipse happens when earth casts a shadow across the full moon
+there are seven continents on earth asia africa north america south america antarctica europe and australia
+asia is the largest continent by both land area and population
+africa is home to the sahara which is the largest hot desert on earth
+antarctica is the coldest and windiest continent covered mostly in ice
+the pacific ocean is the largest and deepest ocean on earth
+the atlantic ocean separates the americas from europe and africa
+the indian ocean lies between africa asia and australia
+mount everest in the himalayas is the highest mountain above sea level
+the nile river and the amazon river are the longest river systems in the world
+the equator is an imaginary line dividing earth into northern and southern hemispheres
+water covers about seventy one percent of the surface of earth
+water freezes at zero degrees celsius and boils at one hundred degrees celsius
+pure water is made of two hydrogen atoms bonded to one oxygen atom
+the water cycle moves moisture through evaporation condensation and precipitation
+air around earth is mostly nitrogen and oxygen with small amounts of other gases
+plants absorb carbon dioxide and sunlight to make food during photosynthesis
+plants release oxygen into the atmosphere which animals and humans breathe
+chlorophyll gives green leaves their color and captures energy from sunlight
+all living things are made of tiny building blocks called cells
+dna carries the genetic instructions inside living cells
+the human heart pumps blood through arteries and veins around the body
+the human brain controls thoughts memory movement and breathing
+the lungs bring fresh oxygen into the blood and remove carbon dioxide
+adult humans normally have two hundred six bones in their skeleton
+gravity is the natural force that pulls objects with mass toward each other
+isaac newton described the laws of motion and universal gravitation
+albert einstein developed the theory of relativity and studied light energy
+marie curie discovered radium and polonium and won two nobel prizes
+galileo improved the telescope and observed moons orbiting jupiter
+charles darwin studied natural selection and how species evolve over time
+nikola tesla pioneered alternating current electrical systems
+ada lovelace wrote early algorithms for a mechanical computing machine
+alan turing helped lay the foundations of modern computer science
+tim berners lee invented the world wide web to share information online
+sound travels through air as vibrations and moves faster in water and steel
+light travels faster than anything else in the universe
+electricity flows easily through conductors like copper and aluminum
+insulators like rubber and glass block the flow of electric current
+a magnet attracts metals such as iron nickel and steel
+temperature measures how fast particles are moving inside a substance
+energy cannot be created or destroyed it only changes from one form to another
+kinetic energy is the energy of motion while potential energy is stored energy
+the wheel was one of the earliest inventions that transformed human transport
+the printing press helped books and scientific ideas spread rapidly across the world
+the compass helped sailors navigate across open oceans using magnetic north
+ancient egypt built massive stone pyramids near the nile river
+ancient greece developed early ideas in philosophy geometry democracy and theater
+the industrial revolution introduced steam engines factories and railways
+mathematics uses numbers symbols and logic to describe patterns in nature
+zero is a key number that makes place value and modern math possible
+a prime number is a whole number greater than one divisible only by one and itself
+the angles inside any triangle always add up to one hundred eighty degrees
+a circle measures three hundred sixty degrees all the way around
+pi is the ratio of the circumference of a circle to its diameter
+there are sixty seconds in a minute and sixty minutes in an hour
+one year has twelve months and fifty two weeks plus one or two extra days
+a leap year occurs roughly every four years and adds february twenty nine
+a thermometer measures temperature and a barometer measures air pressure
+a microscope lets scientists see tiny cells and bacteria invisible to the eye
+a telescope gathers distant light to show stars planets and galaxies
+volcanoes release molten rock called magma from deep inside earth
+earthquakes happen when huge tectonic plates shift along cracks in the crust
+fossils preserve traces of ancient plants and animals inside layers of rock
+dinosaurs lived on earth millions of years ago long before humans appeared
+whales are the largest mammals living in the oceans today
+cheetahs are the fastest land animals on earth during short sprints
+bees help pollinate flowers and crops while gathering nectar for honey
+birds have hollow bones and feathers that help most species fly
+insects have six legs while spiders have eight legs
+deserts receive very little rain while tropical rainforests receive heavy rainfall
+coral reefs support thousands of ocean species near warm shallow coasts
+recycling paper glass and metal saves energy and reduces waste
+renewable energy comes from natural sources like sunlight wind and flowing water
+reading books about science history and nature builds strong general knowledge
+curiosity about how the world works leads to great discoveries every day
+hello again my friend let us see what the model says hello
