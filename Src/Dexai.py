@@ -1,20 +1,12 @@
 import random as rnd
-
+from pathlib import Path
 # Reads the data as text from an txt file and parse it 
 def Readfile():
-    with open("C:/Users/user/Desktop/Dexai/Data/lang.txt", encoding='utf-8') as file:
+    data_dir = Path(__file__).parent.parent
+    file_path = data_dir/"Data"/"lang.txt"
+    with open(file_path, encoding='utf-8') as file:
         lang_data = file.read().split()  # sepeartes it as words
         return lang_data
-                 
-data = Readfile()  # returns the data as words
-
-# just an function to learn about the dict 
-def count_word(data): 
-    count = {}
-    for i in data:
-        count[i] = count.get(i, 0) + 1
-
- # end ....
 
 data = Readfile() # main data variable
 
