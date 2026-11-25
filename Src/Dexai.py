@@ -67,10 +67,10 @@ def next_word_prob(pair, word):
         result[word] = value / count
     return result
 
-result = next_word_prob(counted, "hello")
-
 # Using the random library predicting the next word
 def predict_next(probalities):
+    if not probalities:
+        probalities = rnd.choices[counted]
     choices = []
     words = []
     for key, value in probalities.items(): # just extracting the word and key
@@ -82,15 +82,17 @@ def predict_next(probalities):
 
 # now it predicts the next word according to the weight 
 
-def text_gen(inp, length):
+def text_gen(tokens, length):
     predicted = []
 
     for tmp in range(length):
-        predict = next_word_prob(counted, inp)
+        predict = next_word_prob(counted, tokens)
         result = predict_next(predict)
         predicted.append(result)
-        inp = result
+        tokens = result
         print(result, end = " ")
-inp = input("Dex gpt>")
 
-text_gen(inp, 15)
+while(True):
+    tokens = input("Dex gpt>")
+
+    text_gen(tokens, 20)
