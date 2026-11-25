@@ -67,11 +67,10 @@ def next_word_prob(pair, word):
 
 # Using the random library predicting the next word
 def predict_next(probalities):
+    if not probalities:
+        return rnd.choices(data)[0]
     words = list(probalities.keys()) 
-    str_choices = list(probalities.values())
-    print(str_choices)
-    choices = [int(x) for x in str_choices]
-    print(choices)
+    choices = list(probalities.values())
     #passing the word and key as an parameter 
     result = rnd.choices(words, weights = choices)
     return result[0]
