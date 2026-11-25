@@ -78,14 +78,19 @@ def predict_next(probalities):
         words.append(key)
     #passing the word and key as an parameter 
     result = rnd.choices(words, weights = choices)
-    print(words, choices)
-    return result
+    return result[0]
 
-print(predict_next(result))
 # now it predicts the next word according to the weight 
 
-def text_gen(input, length):
-    pass    
+def text_gen(inp, length):
+    predicted = []
 
+    for tmp in range(length):
+        predict = next_word_prob(counted, inp)
+        result = predict_next(predict)
+        predicted.append(result)
+        inp = result
+        print(result, end = " ")
+inp = input("Dex gpt>")
 
-
+text_gen(inp, 15)
