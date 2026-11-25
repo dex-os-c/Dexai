@@ -69,13 +69,8 @@ def next_word_prob(pair, word):
 
 # Using the random library predicting the next word
 def predict_next(probalities):
-    if not probalities:
-        probalities = rnd.choices[counted]
-    choices = []
-    words = []
-    for key, value in probalities.items(): # just extracting the word and key
-        choices.append(value)
-        words.append(key)
+    choices = list(probalities.keys()) 
+    words = list(probalities.values())
     #passing the word and key as an parameter 
     result = rnd.choices(words, weights = choices)
     return result[0]
@@ -91,8 +86,9 @@ def text_gen(tokens, length):
         predicted.append(result)
         tokens = result
         print(result, end = " ")
+    print("\n")
 
 while(True):
     tokens = input("Dex gpt>")
-
+    
     text_gen(tokens, 20)
